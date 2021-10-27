@@ -1,5 +1,5 @@
 {
-    "/stock*": "/664/stock$1"
-
+    "/stock*": "/664/stock$1",
+    "/products*": "/664/products$1"
   }
   
